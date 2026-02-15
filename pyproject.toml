@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qsp-sdk"
+version = "0.185.0"
+description = "QSP Minimal SDK (Stage185) bridging Stage178 Core(LTS)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["sdk*"]

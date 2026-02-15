@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: qsp-sdk
+Version: 0.185.0
+Summary: QSP Minimal SDK (Stage185) bridging Stage178 Core(LTS)
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file

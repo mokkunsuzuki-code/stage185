@@ -1,0 +1,7 @@
+{"event": "SESSION_NEW", "role": "server", "handshake_complete": false, "ts_ms": 1771134469569}
+{"event": "FRAME_IN", "role": "server", "frame_type": "APP_DATA", "payload_len": 11, "ts_ms": 1771134469569}
+{"event": "FRAME_ERR", "role": "server", "frame_type": "APP_DATA", "err_type": "ProtocolViolation", "err": "APP_DATA rejected: handshake not complete (Claim A1)", "ts_ms": 1771134469569}
+{"event": "FRAME_IN", "role": "server", "frame_type": "HS", "payload_len": 0, "ts_ms": 1771134469569}
+{"event": "FRAME_OUT", "role": "server", "frame_type": "HS", "out_len": 5, "ts_ms": 1771134469569}
+{"event": "FRAME_IN", "role": "server", "frame_type": "APP_DATA", "payload_len": 14, "ts_ms": 1771134469570}
+{"event": "FRAME_OUT", "role": "server", "frame_type": "APP_DATA", "out_len": 26, "ts_ms": 1771134469570}
